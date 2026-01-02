@@ -21,13 +21,13 @@ Implements LLM-driven phone control with support for complex task interactions. 
 
 ## Demo
 
-请帮我打开笔记添加一个待办，早间会议，时间为今天9点
+Please help me open the note and add a to-do, morning meeting, time is 9 o'clock today
 
-<video src="./计划待办.mp4"></video>
+<video src="https://drive.google.com/file/d/1Q1QRm3gh3eYoACS8SpLbwi86zBEyZMgJ/view?usp=sharing"></video>
 
-请帮我打开美团搜索瑞幸咖啡点一杯咖啡，不加糖，点击抢购即可
+Please help me open Meituan, search for Luckin Coffee, order a cup of coffee without sugar, and click to buy it.
 
-<video src="./美团外卖.mp4"></video>
+<video src="https://drive.google.com/file/d/14Wp-STw6Kqj-HN6w8kZLGvR7c7mNsJdt/view?usp=sharing"></video>
 
 ## ⭐Star History
 
