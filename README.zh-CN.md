@@ -31,4 +31,4 @@
 
 ## ⭐Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=R1ckyZ/MLLM&type=timeline&legend=top-left)](https://www.star-history.com/#R1ckyZ/MLLM&type=timeline&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=R1ckyZ/MLLM&type=date&legend=top-left)](https://www.star-history.com/#R1ckyZ/MLLM&type=date&legend=top-left)
