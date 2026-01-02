@@ -21,13 +21,13 @@
 
 ## Demo
 
-请帮我打开笔记添加一个待办，早间会议，时间为今天9点
+[演示视频](https://www.bilibili.com/video/BV1qei8BMEYu)
 
-<video src="https://drive.google.com/file/d/1Q1QRm3gh3eYoACS8SpLbwi86zBEyZMgJ/view?usp=sharing"></video>
+展示内容如下：
 
-请帮我打开美团搜索瑞幸咖啡点一杯咖啡，不加糖，点击抢购即可
+1.请帮我打开笔记添加一个待办，早间会议，时间为今天9点
 
-<video src="https://drive.google.com/file/d/14Wp-STw6Kqj-HN6w8kZLGvR7c7mNsJdt/view?usp=sharing"></video>
+2.请帮我打开美团搜索瑞幸咖啡点一杯咖啡，不加糖，点击抢购即可
 
 ## ⭐Star History
 
