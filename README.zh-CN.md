@@ -23,7 +23,7 @@
 
 [演示视频](https://www.bilibili.com/video/BV1qei8BMEYu)
 
-展示内容如下：
+演示内容如下：
 
 1.请帮我打开笔记添加一个待办，早间会议，时间为今天9点
 
