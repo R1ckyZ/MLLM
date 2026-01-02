@@ -21,13 +21,13 @@ Implements LLM-driven phone control with support for complex task interactions. 
 
 ## Demo
 
-Please help me open the note and add a to-do, morning meeting, time is 9 o'clock today
+[Demo Video](https://www.bilibili.com/video/BV1qei8BMEYu)
 
-<video src="https://drive.google.com/file/d/1Q1QRm3gh3eYoACS8SpLbwi86zBEyZMgJ/view?usp=sharing"></video>
+The presentation is as follows:
 
-Please help me open Meituan, search for Luckin Coffee, order a cup of coffee without sugar, and click to buy it.
+1. Please help me open the note and add a to-do, morning meeting, time is 9 o'clock today
 
-<video src="https://drive.google.com/file/d/14Wp-STw6Kqj-HN6w8kZLGvR7c7mNsJdt/view?usp=sharing"></video>
+2. Please help me open Meituan, search for Luckin Coffee, order a cup of coffee without sugar, and click to buy it.
 
 ## ⭐Star History
 
