@@ -31,4 +31,4 @@ The presentation is as follows:
 
 ## ⭐Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=R1ckyZ/MLLM&type=Date)](https://star-history.com/#R1ckyZ/MLLM&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=R1ckyZ/MLLM&type=date&legend=top-left)](https://www.star-history.com/#R1ckyZ/MLLM&type=date&legend=top-left)
